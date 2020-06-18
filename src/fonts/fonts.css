@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'NotoSansSC-Regular';
+  src: './NotoSansSC-Light.otf';
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: 'NotoSansSC-Bold';
+  src: './NotoSansSC-Medium.otf';
+  font-style: normal;
+  font-weight: bold;
+}
